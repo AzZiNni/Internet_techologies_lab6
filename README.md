@@ -6,7 +6,8 @@
 ![image](https://user-images.githubusercontent.com/92305754/172459616-1c526a94-4d54-4628-a174-db1ff948fbc8.png)
 
 Здесь показываю соответсвенно заданию что работает фильтр на клиентов с отрицательным счетом
-![Безымянный](https://user-images.githubusercontent.com/92305754/172659170-7d74ef77-925c-43f1-a0d7-95eba57eb1af.png)
+![Безымянный](https://user-images.githubusercontent.com/92305754/172659493-bf752a28-5107-4ffe-a247-3da0dcd5cac1.png)
+
 
 А здесь добавил новый фильтр чтобы отображать клиентов с определенным балансом.
 ![image](https://user-images.githubusercontent.com/92305754/172459672-fd382603-6fdf-45e9-8a9e-7673b6cf526c.png)
